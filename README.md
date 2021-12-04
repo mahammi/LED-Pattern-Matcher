@@ -6,6 +6,7 @@ Overview
 Pattern matcher is a game created using the STM32 microcontroller, through which the user can get a classic arcade experience. The objective is to press buttons that match up with the correct corresponding LED light patterns. The game tests user's memorization skills, as they are required to remember previous LED sequences, along with new iterations being added to the entire sequence.
 
 
+
 Program & Game Mechanics
 ---------------
 
