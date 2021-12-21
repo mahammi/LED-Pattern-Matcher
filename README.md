@@ -10,8 +10,7 @@ Pattern matcher is a game created using the STM32 microcontroller, through which
 Program & Game Mechanics
 ---------------
 
-The lifetime of the code begins with the user turning on the microcontroller and pressing the first button to "start", through which  an array is initialized to hold a randomized combination of LED’s. The lights are then turned on in order, and the user is prompted to click a button that corresponds to the light. This process is repeated through the use of a loop, where each round the user must input one additional index of the array. The loop is broken once the user clicks the incorrect button, and they are then prompted to click the reset button to play again. While the user plays the game, a timer function runs in the background so that the user can keep track of their time and try to beat their previous record.
-
+The lifetime of the code begins with the user turning on the microcontroller and pressing the first button to "start", through which  an array is initialized to hold a randomized combination of LED’s. The lights are then turned on in order, and the user is prompted to click a button that corresponds to the light. This process is repeated through the use of a loop, where each round the user must input one additional index of the array. The loop is broken once the user clicks the incorrect button, and they are then prompted to click the reset button to play again. 
 Design Information
 -------------------------
 
