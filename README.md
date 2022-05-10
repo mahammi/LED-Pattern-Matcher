@@ -11,7 +11,7 @@ Program & Game Mechanics
 ---------------
 
 The lifetime of the code begins with the user turning on the microcontroller and pressing the first button to "start", through which  an array is initialized to hold a randomized combination of LED’s. The lights are then turned on in order, and the user is prompted to click a button that corresponds to the light. This process is repeated through the use of a loop, where each round the user must input one additional index of the array. The loop is broken once the user clicks the incorrect button, and they are then prompted to click the reset button to play again. 
-![image](https://user-images.githubusercontent.com/50532268/167529041-83b9c293-ad7e-4d82-856e-d22154b53c94.png)
+![image](https://github.com/mahammi/LED-Pattern-Matcher/blob/main/demo.gif)
 
 Design Information
 -------------------------
